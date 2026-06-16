@@ -1,16 +1,16 @@
-# React + Vite
+# Interview Assignment
+โปรเจกต์นี้เป็นแบบทดสอบสำหรับการสมัครงาน พัฒนาด้วย React + TypeScript + Vite
+## Getting Started
+- ติดตั้ง Node.js เวอร์ชัน 24.15.0
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Installation
+1.Clone project จาก GitHub
+https://github.com/Jetsadapong57170/interview-assignment.git
+2.เข้าไปที่โฟลเดอร์ project
+cd interview-assignment
+3.ติดตั้ง dependencies
+npm install
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## เริ่มต้น project ด้วยคำสั่ง
+ npm run dev
+จากนั่นเปิด browser ไปที่: http://localhost:5173/
