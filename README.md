@@ -4,11 +4,11 @@
 - ติดตั้ง Node.js เวอร์ชัน 24.15.0
 
 ## Installation
-1.Clone project จาก GitHub
+### 1.Clone project จาก GitHub
 https://github.com/Jetsadapong57170/interview-assignment.git
-2.เข้าไปที่โฟลเดอร์ project
+### 2.เข้าไปที่โฟลเดอร์ project
 cd interview-assignment
-3.ติดตั้ง dependencies
+### 3.ติดตั้ง dependencies
 npm install
 
 ## เริ่มต้น project ด้วยคำสั่ง
