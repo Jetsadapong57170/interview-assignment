@@ -1,5 +1,5 @@
 # Interview Assignment
-โปรเจกต์นี้เป็นแบบทดสอบสำหรับการสมัครงาน พัฒนาด้วย React + TypeScript + Vite
+โปรเจกต์นี้เป็นแบบทดสอบสำหรับการสมัครงาน พัฒนาด้วย React + JavaScript + Vite
 ## Getting Started
 - ติดตั้ง Node.js เวอร์ชัน 24.15.0
 
